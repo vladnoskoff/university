@@ -27,6 +27,6 @@ int main(){
     default:
         std::cout << "Error\n";
     }
-    //sdwfgsdg
+    //vlad noskov
     return 0;
 }
