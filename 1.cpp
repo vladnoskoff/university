@@ -27,6 +27,6 @@ int main(){
     default:
         std::cout << "Error\n";
     }
-    //vlad noskov
+    //vlad noskov 002
     return 0;
 }
